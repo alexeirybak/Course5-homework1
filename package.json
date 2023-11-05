@@ -1,7 +1,7 @@
 {
   "name": "Course5",
   "version": "1.0.0",
-  "description": "",
+  "description": "Шаблон для выполнения второго домашнего задания",
   "main": "index.js",
   "scripts": {
     "start": "node src/app.js",
