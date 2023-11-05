@@ -16,7 +16,7 @@ const server = http.createServer((request, response) => {
             response.statusCode = 400;
             response.statusMessage = 'Error';
             response.setHeader = 'Content Type: text/plain';
-            response.write(`Enter a name`);
+            response.write(`Enter a name!`);
             response.end();
         } 
             response.statusCode = 200;
